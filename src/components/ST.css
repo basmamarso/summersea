@@ -1,0 +1,33 @@
+.but:hover{box-shadow:
+    0 0 0 3px #95BDFF;
+border-radius: 1px;}
+.but{color:black;
+    background-color:white;
+    border:solid 5px #F7C8E0;
+    height:50px;width:100px;
+    font-size:25px;}
+.but1:hover{box-shadow:
+    0 0 0 3px #95BDFF;
+border-radius: 1px;}
+.but1{color:black;
+        background-color:white;
+        border:solid 5px #F7C8E0;
+        height:60px;width:150px;
+        font-size:30px;}
+.but3:hover{box-shadow:
+    0 0 0 3px #95BDFF;
+border-radius: 1px;}
+.but3{color:black;
+    background-color:white;
+        border:solid 5px #F7C8E0;
+        }
+.but4:hover{box-shadow:
+        0 0 0 3px #F7C8E0;
+        border-radius: 1px;}
+.but4{color:black;
+        background-color:white;
+        border:solid 5px #95BDFF;
+        margin: auto;
+        width: 200px;
+                }
+       

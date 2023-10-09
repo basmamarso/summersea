@@ -1,0 +1,21 @@
+.container {
+    background-image:url('https://abcmallorcastorage.blob.core.windows.net/images/2021/03/latitud-39-restaurant-29-60cafa3889255.jpg');
+    background-repeat:no-repeat;
+    height:1000px;
+    width:1250px;
+    background-size:cover;
+    margin:auto;
+    background-attachment:fixed;
+    position: relative;
+}
+
+.container::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.744); /* Adjust the last value (0.5) to control opacity */
+}
+

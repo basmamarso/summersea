@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/SummerSea/static/css/main.dce3b619.css",
+    "main.js": "/SummerSea/static/js/main.ed551a63.js",
+    "static/js/787.aab8bd84.chunk.js": "/SummerSea/static/js/787.aab8bd84.chunk.js",
+    "static/media/11.png": "/SummerSea/static/media/11.3a146ebf1c928fe4cc0c.png",
+    "static/media/2.png": "/SummerSea/static/media/2.66ba003e2a4e270d0bb8.png",
+    "index.html": "/SummerSea/index.html",
+    "main.dce3b619.css.map": "/SummerSea/static/css/main.dce3b619.css.map",
+    "main.ed551a63.js.map": "/SummerSea/static/js/main.ed551a63.js.map",
+    "787.aab8bd84.chunk.js.map": "/SummerSea/static/js/787.aab8bd84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dce3b619.css",
+    "static/js/main.ed551a63.js"
+  ]
+}
