@@ -1,2 +1,2 @@
 # summersea
-https://basmamarso.github.io/summersea/
+https://basmamarso.github.io/summersea-Reactjs/
